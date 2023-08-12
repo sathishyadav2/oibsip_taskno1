@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="unit_array">
+        <item>cm to m</item>
+        <item>m to cm</item>
+        <item>m to km</item>
+        <item>km to m</item>
+        <item>gr to kg</item>
+        <item>kg to gr</item>
+    </string-array>
+
+</resources>
